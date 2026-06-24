@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beso de ángel
+
+This log tracks the cryptographic history and versioning for the song **Beso de ángel** (beso-de-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T14:55:41.582032 | `v1` | `aeeaa53c2b7e256c1f04aac2e58cc5975f124f9c7a1d3f8712fd15a25d0b6e9d` | `4f70de704251afb18cabe592d3b69ba3aeddb5cbe3c0277395c8b68292b0e1c5` | `2026-06-24_beso-de-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
