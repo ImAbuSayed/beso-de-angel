@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Beso de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-angel/) |
+| **Get License** | [Secure Licensing Rights for Beso de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me das ese beso de ángel que me lleva al cielo,
+> Con solo una mirada tuya congelamos el tiempo,
+> Baby, me tienes adicto, crazy, perdiendo el control,
+> Esta noche eres mi diosa, la dueña del callejón.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
